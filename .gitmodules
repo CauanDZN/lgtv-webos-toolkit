@@ -1,0 +1,3 @@
+[submodule "webos-vibehack"]
+	path = webos-vibehack
+	url = https://github.com/OmkarK97/webos-vibehack.git
